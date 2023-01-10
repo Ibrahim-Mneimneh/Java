@@ -1,0 +1,57 @@
+Non-Active UnderGraduateID:0
+Major:
+Name:  
+Email:null
+GPA:0.0
+Age:0
+EarnedCredits:0
+------------------------------------
+------------------------------------
+Active Graduate:  ID:2021001
+Major:computer
+Name:ibrahim jamil mneimneh
+Email:ijm0001@student.bau
+GPA:3.5
+Age:24
+EarnedCredits:38
+Registered Credits: 9
+Fees: 9000.0
+Remaining Fees: 4500.0
+Paid fees: 4500.0
+------------------------------------
+------------------------------------
+Active Graduate:  ID:2021002
+Major:medicine
+Name:hasan ali akl
+Email:haa0002@student.bau
+GPA:3.6
+Age:27
+EarnedCredits:15
+Registered Credits: 6
+Fees: 9000.0
+Remaining Fees: 0.0
+Paid fees: 9000.0
+------------------------------------
+------------------------------------
+Active Graduate:  ID:2021003
+Major:computer
+Name:jamal abed chaaban
+Email:jac0003@student.bau
+GPA:3.6
+Age:24
+EarnedCredits:28
+Registered Credits: 8
+Fees: 8000.0
+Remaining Fees: 8000.0
+Paid fees: 0.0
+------------------------------------
+------------------------------------
+Non-Active UnderGraduateID:2021004
+Major:medicine
+Name:karim ali akl
+Email:kaa0004@student.bau
+GPA:2.4927802367209946
+Age:19
+EarnedCredits:18
+------------------------------------
+------------------------------------
